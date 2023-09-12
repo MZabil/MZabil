@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I watch a lot of anime**
 
-- 👨‍💻 My projects are available at **<a target="_blank" href="https://mzabil.github.io/webDevPortfolio/">Portfolio Link</a>**
+- 👨‍💻 My projects are available at: **<a href="https://mzabil.github.io/webDevPortfolio/" target="_blank">Portfolio Link</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
