@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zabil</h1>
-<h3 align="center">A passionate full-stack MERN developer from Pakistan, as well as a 2nd year software engineering student at NUST. I also know some C++, java and object-oriented programming (courses I've completed in university) </h3>
+<h3 align="center">A 3rd-year student at NUST, specializing in artificial intelligence and web development. My
+technical work involves designing intelligent systems, training machine learning models, and building
+scalable, user-friendly web applications. With a deep understanding of AI concepts and proficiency in
+full-stack development, I thrive at the use of AI algorithms within websites. I am passionate about
+solving real-world problems and continuously learning to refine my skills in cutting-edge
+technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **improving my web development skills**
