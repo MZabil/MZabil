@@ -10,6 +10,7 @@ technologies.</h3>
 - 📫 How to reach me **m.zabil.mehboob@gmail.com**
 
 - ⚡ Fun fact **I watch a lot of anime**
+- **You can view my projects from my github directly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
