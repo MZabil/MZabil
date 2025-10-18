@@ -7,9 +7,9 @@ solving real-world problems and continuously learning to refine my skills in cut
 technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 📫 How to reach me **m.zabil.mehboob@gmail.com**
+- How to reach me **m.zabil.mehboob@gmail.com**
 
-- ⚡ Fun fact **I watch a lot of anime**
+- Fun fact **I watch a lot of anime**
 - **You can view my projects from my github directly.**
 
 <h3 align="left">Connect with me:</h3>
