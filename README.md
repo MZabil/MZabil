@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zabil</h1>
-<h3 align="center">A 3rd-year student at NUST, specializing in artificial intelligence and web development. My
+<h3 align="center">A 4th-year student at NUST, specializing in artificial intelligence and web development. My
 technical work involves designing intelligent systems, training machine learning models, and building
 scalable, user-friendly web applications. With a deep understanding of AI concepts and proficiency in
 full-stack development, I thrive at the use of AI algorithms within websites. I am passionate about
@@ -7,13 +7,9 @@ solving real-world problems and continuously learning to refine my skills in cut
 technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **improving my web development skills**
-
 - 📫 How to reach me **m.zabil.mehboob@gmail.com**
 
 - ⚡ Fun fact **I watch a lot of anime**
-
-- 👨‍💻 My projects are available at: **<a target="_blank" href="https://mzabil.github.io/webDevPortfolio/">Portfolio Link</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
