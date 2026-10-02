@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zabil</h1>
 
 <h3 align="center">
-Software Engineering undergraduate specializing in Artificial Intelligence, Machine Learning, and Full-Stack Web Development.
-Experienced in building AI-powered systems, IoT-based assistive technologies, and explainable machine learning solutions.
-Published researcher with strong analytical skills and international research exposure.
+Software Engineering graduate specializing in Artificial Intelligence, Machine Learning, and full-stack web
+development. Experienced in building AI-powered systems, IoT-based assistive technologies, and explainable
+machine learning solutions. Published researcher with strong analytical skills and international research
+exposure.
 </h3>
 
 <p align="center">
