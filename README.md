@@ -11,7 +11,7 @@
 
 - 🎓 Software Engineering graduate from **NUST, Pakistan**
 - 🤖 Experience in **Machine Learning, Deep Learning, and Explainable AI**
-- 🌐 Develop full-stack applications using **Next.js, React, and Python**
+- 🌐 Develop full-stack applications using **Next.js, React, MERN Stack and Python**
 - 🔬 Published researcher with experience in AI and applied machine learning
 - 💡 Interested in building practical AI applications and intelligent systems
 
